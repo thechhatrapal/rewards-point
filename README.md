@@ -35,7 +35,7 @@ The Retailer Rewards Program is a ReactJS application that calculates reward poi
     you can checkout server is running on http://localhost:5000
 
 
-3. To run Frontend
+3. To run frontend:
 
     Move to the directory ```cd rewards-point```
 
