@@ -26,17 +26,24 @@ The Retailer Rewards Program is a ReactJS application that calculates reward poi
 
 2. To run backend:
 
-### move to the backend directory - ```cd backend```
-### Run ```npm install```
-### Run npm start
+Move to the directory: ```cd backend```
+
+Run: ```npm install```
+
+Run  ```npm start```
+
 you can checkout server is running on http://localhost:5000
 
-3. To run Frontend
-### Move to the rewards-point - ```cd rewards-point```
-### Run ```npm install```
 
-### Run npm start
-### you can checkout react  is running on  - 
+3. To run Frontend
+
+Move to the directory ```cd rewards-point```
+
+Run ```npm install```
+
+Run  ```npm start```
+
+server is running on  - 
 http://localhost:3000
 
 ### To run the test cases - ```npm run test:coverage```
