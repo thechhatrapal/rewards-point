@@ -46,7 +46,7 @@ The Retailer Rewards Program is a ReactJS application that calculates reward poi
     server is running on  - 
     http://localhost:3000
 
-To run the test cases - ```pm run test:coverage```
+To run the test cases - ```npm run test:coverage```
 
 
 
