@@ -22,6 +22,28 @@ The Retailer Rewards Program is a ReactJS application that calculates reward poi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/rewards-program.git
-   cd rewards-program
+   git clone https://github.com/thechhatrapal/rewards-point.git
+
+2. To run backend:
+
+### move to the backend directory - ```cd backend```
+### Run ```npm install```
+### Run npm start
+you can checkout server is running on http://localhost:5000
+
+3. To run Frontend
+### Move to the rewards-point - ```cd rewards-point```
+### Run ```npm install```
+
+### Run npm start
+### you can checkout react  is running on  - 
+http://localhost:3000
+
+### To run the test cases - ```npm run test:coverage```
+
+
+
+
+
+
 
